@@ -160,12 +160,10 @@ streamlit run UngDungDuDoan.py
 ### 🤝 **Đóng góp nhóm**
 
 
-| Họ và Tên         | Vai trò                                                                                                        |  
-
-|-------------------|----------------------------------------------------------------------------------------------------------------|  
-
-| Đỗ Quang Minh     | Phát triển thuật toán trích xuất đặc trưng (HOG+Color) và Huấn luyện mô hình SVM. Xây dựng ứng dụng Streamlit. |
-| Đinh Ngọc Chính   | Tiền xử lý dữ liệu, Data Augmentation. So sánh hiệu năng các thuật toán Học Máy.                               |
+| Họ và Tên | Vai trò |
+|---|---|
+| Đỗ Quang Minh | Phát triển thuật toán trích xuất đặc trưng (HOG+Color) và Huấn luyện mô hình SVM. Xây dựng ứng dụng Streamlit. |
+| Đinh Ngọc Chính | Tiền xử lý dữ liệu, Data Augmentation. So sánh hiệu năng các thuật toán Học Máy. |
 
 
 
