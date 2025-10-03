@@ -1,4 +1,4 @@
-**Nhận Diện Biển Báo Giao Thông**  
+#**Nhận Diện Biển Báo Giao Thông**  
 
 _Đề tài áp dụng các thuật toán Học Máy (Machine Learning), cụ thể là SVM, kết hợp với trích xuất đặc trưng truyền thống (HOG + Color Histogram) để nhận diện 43 loại biển báo giao thông và triển khai ứng dụng web bằng Streamlit._
 
