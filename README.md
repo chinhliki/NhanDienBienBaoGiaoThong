@@ -171,4 +171,4 @@ streamlit run UngDungDuDoan.py
 
 
 
-© 2025 NHÓM 15, NHẬN DIỆN BIỂN BÁO GIAO THÔNG, NHẬP MÔN HỌC MÁY, TRƯỜNG ĐẠI HỌC Đại NAM
+© 2025 NHÓM 15, NHẬN DIỆN BIỂN BÁO GIAO THÔNG, NHẬP MÔN HỌC MÁY, TRƯỜNG ĐẠI HỌC ĐẠI NAM
